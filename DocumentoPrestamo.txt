@@ -1,0 +1,1 @@
+Datos del Prestamo: [Interes Total=0.08295381143327063, Tasa Interes Mensual=0.08295381143461622, Cuota mensual=100.08295381143327, Duracion del prestamo en meses=1.0, Monto del prestamo=100.0,  Tasa Interes Efectivo Anual=1.0]
